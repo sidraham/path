@@ -35,6 +35,7 @@ or add it by hand to your `composer.json` file.
 - parse
 - isAbsolute
 - lastDir
+- serialize
 - join
 - real
 - BSEP
